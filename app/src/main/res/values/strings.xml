@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Files</string>
+    <string name="send_file">Send file</string>
+    <string name="rationale">My rationale for this permission</string>
+    <string name="uploading">Uploading file</string>
+    <string name="cancel">Cancel</string>
+    <string name="upload_success">Upload success!</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="file_share_label">File IO Url</string>
+    <string name="copied_to_clipboard">Url copied to clipboard</string>
+</resources>
